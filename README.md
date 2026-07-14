@@ -7,6 +7,8 @@ The project starts from a clearly defined business problem and follows the full 
 
 ---
 
+<img width="1535" height="1024" alt="full overview" src="https://github.com/user-attachments/assets/05bb18a0-b828-48d9-8a73-8a913441fc25" />
+
 ## Project Overview
 
 Retail businesses collect large amounts of customer and transaction data, but the value comes from turning that data into useful business decisions. In this project, I analyzed customer shopping behavior to identify trends in revenue, product categories, subscription status, shipping preferences, age groups, and customer loyalty.
